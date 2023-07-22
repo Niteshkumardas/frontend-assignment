@@ -69,5 +69,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+### workdone
+#use fetch API to get product data
+#Added Filter product functionality to filter product
+#Use Skeleton Loading when Calling API
+
+### onlinestore page
+![onlinestore](https://github.com/Niteshkumardas/frontend-assignment/assets/44013667/b28afeb5-1d71-40c5-9ee6-54a9cd88b33b)
+
+### producthome page
+![homepage](https://github.com/Niteshkumardas/frontend-assignment/assets/44013667/c4b8f278-d53b-4ee4-a6f2-e5ba6ba725d7)
+
+
+### product detail page
+![productdetail](https://github.com/Niteshkumardas/frontend-assignment/assets/44013667/c810572a-af8b-40ac-bf61-d4413649998b)
+
+
 
 ### Online store page
