@@ -85,5 +85,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![productdetail](https://github.com/Niteshkumardas/frontend-assignment/assets/44013667/c810572a-af8b-40ac-bf61-d4413649998b)
 
 
-
-### Online store page
